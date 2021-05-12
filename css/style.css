@@ -1,0 +1,56 @@
+#outer-wrapper {
+    /* csomagoló */
+    width: 680px;
+    padding: 10px;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    /* fejléc */
+    margin: 5px;
+    border: 1px solid;
+    /* border-width: 1px;
+    border-style: solid;
+    border-color: unset; */
+    text-align: center;
+}
+
+#main-wrapper {
+    /* tartalom */
+    width: 430px;
+    float: left;
+}
+
+#sidebar-wrapper {
+    /* oldalsáv */
+    width: 220px;
+    float: right;
+}
+
+body {
+    /* törzs */
+    margin: 0px;
+    color: #333333;
+    font-family: Verdana;
+}
+
+img {
+    padding-top: 16px;
+}
+
+h1 {
+    color: #666666;
+    font-size: 32pt;
+}
+
+h2 {
+    color: #999999;
+    font-size: 16pt;
+}
+
+h3 {
+    color: #CC6600;
+    font-size: 16pt;
+}
